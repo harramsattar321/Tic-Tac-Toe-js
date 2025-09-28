@@ -14,17 +14,9 @@ A simple and interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaSc
 
 ## 🖥️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
-## 🖌️ Color Palette
-
-- Player O: Teal `#008080`
-- Player X: Cherry Red `#E53935`
-- Winner Message: Gold `#FFD700`
-- Draw Message: White `#FFFFFF`
-- Buttons Background: Light Yellow `#FFFFC7`
+- HTML
+- CSS
+- JavaScript 
 
 ## 🚀 How to Play
 
@@ -34,5 +26,4 @@ A simple and interactive **Tic-Tac-Toe game** built with **HTML, CSS, and JavaSc
 4. If all boxes are filled without a winner, the game ends in a draw.
 5. Use the **Reset Game** or **New Game** buttons to restart.
 
-## 📁 Folder Structure
 
